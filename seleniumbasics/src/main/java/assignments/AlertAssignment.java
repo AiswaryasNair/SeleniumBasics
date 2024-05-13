@@ -28,5 +28,4 @@ public class AlertAssignment {
 		driver.switchTo().alert().sendKeys("test");
 		driver.switchTo().alert().accept();
 	}
-
 }
